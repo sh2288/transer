@@ -4,7 +4,7 @@
 <h1 align="center">文字游戏 翻译君</h1>
 
 [GitHub](https://github.com/sh2288/transer)
-[开始阅读](#docsify-demo)
+[开始阅读](#文字游戏_翻译君)
 
 
 

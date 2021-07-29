@@ -1,6 +1,6 @@
 # 文字游戏 翻译君 (云翻 云翻译软件)
 ![image](https://img.shields.io/badge/最新版本-2021--08--08-orange)  ![image](https://img.shields.io/badge/官方QQ1群-38552538-ff69b4?style=flat&logo=tencent-qq) ![image](https://img.shields.io/badge/官方QQ2群-706514743-ff69b4?style=flat&logo=tencent-qq)  ![image](https://img.shields.io/badge/.NET-4.5.2-brightgreen?style=flat&logo=.net) ![image](https://img.shields.io/badge/windows/xp/7/8/10-x86/x64-blue?style=flat&logo=windows)
-### 软件特性:
+### 软件特性
 
 1. 文本文件任意支持的语言(详见翻译API支持语言列表)翻译成简体中文
 2. 翻译好的文件编码为utf16le有签名

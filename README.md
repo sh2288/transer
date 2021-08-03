@@ -65,17 +65,17 @@ QPS|不限|1或10|5|不限
 ### 使用指南
 <a id='apitech'></a>
 >#### 翻译接口申请教程
-翻译接口| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)
+申请网址| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)
 ---|---|---|---|---
-申请指南|![image](img/有道API申请教程.png)|![image](img/百度API申请教程.png)|![image](img/腾讯API申请教程.png)|![image](img/彩云API申请教程.png)|
 
 >##### 有道
-
+![image](img/有道API申请教程.png)
 >##### 百度
-
+![image](img/百度API申请教程.png)
 >##### 腾讯
-
+![image](img/腾讯API申请教程.png)
 >##### 彩云
+![image](img/彩云API申请教程.png)
 
 >#### 软件使用教程
 

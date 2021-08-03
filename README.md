@@ -15,7 +15,6 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 ---|---|---|---
 
 ### 软件介绍
-
 ```
 graph LR
 f[文字游戏翻译君-简易流程图]
@@ -24,7 +23,6 @@ B==>C((文字游戏翻译君软件))
 C==>|文本提取+翻译剧本|D(翻译好的游戏脚本)
 D==>E[封包回游戏]
 ```
-
 1. 文本文件任意支持的语言(详见翻译API支持语言列表)翻译成简体中文
 2. 翻译好的文件编码为utf16le有签名(仅ks或text类型)
 3. 自动识别文件编码shift-jis和utf8,utf16,gb2312等(utf16be无签名除外)
@@ -67,6 +65,17 @@ QPS|不限|1或10|5|不限
 ### 使用指南
 <a id='apitech'></a>
 >#### 翻译接口申请教程
+翻译接口| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)
+---|---|---|---|---
+申请指南|![image](img/有道API申请教程.png)|![image](img/百度API申请教程.png)|![image](img/腾讯API申请教程.png)|![image](img/彩云API申请教程.png)|
+
+>##### 有道
+
+>##### 百度
+
+>##### 腾讯
+
+>##### 彩云
 
 >#### 软件使用教程
 

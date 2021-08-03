@@ -1,5 +1,14 @@
 # 文字游戏 翻译君 (云翻 云翻译软件)
 ![image](https://img.shields.io/badge/最新版本-2021--08--08-orange)  ![image](https://img.shields.io/badge/官方QQ1群-38552538-ff69b4?style=flat&logo=tencent-qq) ![image](https://img.shields.io/badge/官方QQ2群-706514743-ff69b4?style=flat&logo=tencent-qq)  ![image](https://img.shields.io/badge/.NET-4.5.2-brightgreen?style=flat&logo=.net) ![image](https://img.shields.io/badge/windows/xp/7/8/10-x86/x64-blue?style=flat&logo=windows)
+
+
+[github地址](https://sh2288.github.io/transer)
+[码云gitee地址](https://gitee.com/sh2288/transer)
+
+QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB)
+### 软件下载
+[度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) [github](https://github.com/sh2288/krkr_translator/blob/master/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F_%E7%BF%BB%E8%AF%91%E5%90%9B_2019-12-22_%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%8138552538.zip) 
+[码云gitee](https://sh2288.github.io/transer)
 ### 软件用途
 
 文本翻译 | 游戏脚本剧本翻译 | 云翻译工具 | 汉化辅助工具
@@ -8,14 +17,14 @@
 ### 软件介绍
 
 1. 文本文件任意支持的语言(详见翻译API支持语言列表)翻译成简体中文
-2. 翻译好的文件编码为utf16le有签名(KS或TEXT类型)
+2. 翻译好的文件编码为utf16le有签名(仅ks或text类型)
 3. 自动识别文件编码shift-jis和utf8,utf16,gb2312等(utf16be无签名除外)
 4. 支持文件类型
 
 ---|*.ks | *.scn | *.rpy |*.json| \*.*(纯文本)
 ---|---|---|---|---|---
----|吉里吉里xp3|吉里吉里xp3|rpy语言包|RPGMV|纯文本
-提取剧本|自动|纯文本+正则|自动(只支持语言包)|自动|自动提取所有或正则提取
+游戏引擎|吉里吉里xp3|吉里吉里xp3|rpy语言包|RPGMV|纯文本
+提取剧本|自动|纯文本+正则|自动(只支持翻译包)|自动|自动提取所有或正则提取
 
 5. 支持的翻译接口
 
@@ -42,10 +51,9 @@
 
 10. 加入自动激活功能,只支持支付宝付款后的自动激活
 
+### 使用指南
 
->#### [码云项目地址](https://gitee.com/sh2288/transer)
 
-### 文字游戏 翻译君 QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或[git根目录](https://github.com/sh2288/krkr_translator/blob/master/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F_%E7%BF%BB%E8%AF%91%E5%90%9B_2019-12-22_%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%8138552538.zip) 
 
 >#### [B站视频教程](https://www.bilibili.com/video/av69298736)
 >#### [youtube视频教程](https://youtu.be/8aXjUVPenW8)

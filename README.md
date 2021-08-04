@@ -15,7 +15,7 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 ---|---|---|---
 
 ### 软件介绍
-
+![image](img/软件简介-ks.png)
 1. 文本文件任意支持的语言(详见翻译API支持语言列表)翻译成简体中文
 2. 翻译好的文件编码为utf16le有签名(仅ks或text类型)
 3. 自动识别文件编码shift-jis和utf8,utf16,gb2312等(utf16be无签名除外)
@@ -77,7 +77,7 @@ QPS|不限|1或10|5|不限
 >#### [youtube视频教程](https://youtu.be/8aXjUVPenW8)
 ![image](img/图像-7.png)
 
-![image](img/汉化流程图解.png)
+
 ![image](img/2019-07-19-img-000.png)
 ![image](img/2019-07-19-img-001.png)
 ![image](img/2019-07-19-img-002.png)

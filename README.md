@@ -1,6 +1,7 @@
 # 文字游戏 翻译君 (云翻 云翻译软件)
 支持多种文件类型的一键翻译工具|您与汉化翻译组的距离只差一个软件
 --|--
+
 ![image](https://img.shields.io/badge/最新版本-2021--08--08-orange)  ![image](https://img.shields.io/badge/官方QQ1群-38552538-ff69b4?style=flat&logo=tencent-qq) ![image](https://img.shields.io/badge/官方QQ2群-706514743-ff69b4?style=flat&logo=tencent-qq)  ![image](https://img.shields.io/badge/.NET-4.5.2-brightgreen?style=flat&logo=.net) ![image](https://img.shields.io/badge/windows/xp/7/8/10-x86/x64-blue?style=flat&logo=windows)
 
 

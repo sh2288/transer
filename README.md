@@ -106,12 +106,9 @@ QPS|不限|1或10|5|不限
 
 [B站视频教程](https://www.bilibili.com/video/av69298736)
 [youtube视频教程](https://youtu.be/8aXjUVPenW8)
-![image](img/图像-7.png)
+
 
 ![image](img/汉化流程图解.png)
-![image](img/2019-07-19-img-000.png)
-![image](img/2019-07-19-img-001.png)
-![image](img/2019-07-19-img-002.png)
 
 
 

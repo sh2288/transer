@@ -12,7 +12,7 @@
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
 QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB)
-### 软件下载
+### 软件下载(解压密码706514743)
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) [github](https://github.com/sh2288/transer/releases/download/2021-08-10/2021-08-10_706514743.zip) 
 [码云gitee](https://sh2288.github.io/transer)
 ### 软件用途

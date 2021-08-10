@@ -14,7 +14,7 @@
 QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB)
 ### 软件下载(解压密码706514743)
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) [github](https://github.com/sh2288/transer/releases/download/2021-08-10/2021-08-10_706514743.zip) 
-[码云gitee](https://sh2288.github.io/transer)
+[码云gitee](https://gitee.com/sh2288/transer/attach_files/797296/download/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F_%E7%BF%BB%E8%AF%91%E5%90%9B_2021-08-10_Q%E7%BE%A4%E5%8F%B7%E7%A0%81%E5%B0%B1%E6%98%AF%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81706514743.zip)
 ### 软件用途
 
 任意文本翻译 | 游戏脚本剧本翻译 | 字幕翻译 | 汉化辅助工具

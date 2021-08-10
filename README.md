@@ -115,9 +115,9 @@ QPS|不限|1或10|5|不限
 
 >#### 文字游戏_翻译君 内置工具列表
 ```
-\data\ krkrrel(打包)
+\tools\ krkrrel-cn(kr打包)
 \tools\ GARbro(解包打包)
-\tools\ KrkrExtract4.0.1.4(解包打包)
+\tools\ KrkrExtract4.0.1.4(kr解包打包)
 \tools\ Emeditor(支持多编码转换的文本编辑器)
 ```
 >#### 已知BUG

@@ -103,7 +103,7 @@ QPS|不限|1或10|5|不限
 >##### rpy文件类型
 ![image](img/rpy教程3.png)
 >##### json(rpgmv)文件类型
-![image](rpgmv-json教程2.png)
+![image](img/rpgmv-json教程2.png)
 
 >#### 位置说明:
 

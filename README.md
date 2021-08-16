@@ -103,9 +103,9 @@ QPS|不限|1或10|5|不限
 ![image](img/ks教程2.png)
 >##### rpy文件类型
 ![image](img/rpy教程3.png)
+[来自其他网站的renpy详细教程](https://nothamor.cn/index.php/archives/renpyTranslate.html)
 >##### json(rpgmv)文件类型
 ![image](img/rpgmv-json教程2.png)
-[来自其他网站的renpy详细教程](https://nothamor.cn/index.php/archives/renpyTranslate.html)
 暂时只支持翻译mapxxx.json的文件类型,至于游戏中其他公共事件和数据库等,开编辑器改也可
 >##### *.*(纯文本)文件类型
 ![image](img/text-regex教程2.png)

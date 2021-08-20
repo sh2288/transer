@@ -16,6 +16,14 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
+### 最新消息
+2021-08-20
+1. 改进rpgmv类型,增加道具,装备等文字或剧本的提取
+2. 改变现有ks提取中的bug
+3. 正则表达式提取代码优化,修复现有bug
+4. 添加复制原文按钮,方便后期二次文润
+5. 下一版本将修正以上所有内容
+
 ### 软件用途
 
 任意文本翻译 | 游戏脚本剧本翻译 | 字幕翻译 | 汉化辅助工具

@@ -12,11 +12,14 @@
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
 QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB)
-### 软件下载(解压密码706514743)
+### 软件下载(解压密码706514743)目前最新版本是2021-08-24
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
+2021-08-24
+1.2021-08-24版本已经修正下列bug
+2.同时修复renpy bug
 2021-08-20
 1. 改进rpgmv类型,增加道具,装备等文字或剧本的提取
 2. 改变现有ks提取中的bug
@@ -114,7 +117,7 @@ QPS|不限|1或10|5|不限
 [来自其他网站的renpy详细教程](https://nothamor.cn/index.php/archives/renpyTranslate.html)
 >##### json(rpgmv)文件类型
 ![image](img/rpgmv-json教程2.png)
-暂时只支持翻译mapxxx.json的文件类型,此功能仅供测试还不完善,至于游戏中其他公共事件和数据库等,开编辑器改也可
+此功能仅供测试还不完善,至于游戏中其他公共事件和数据库等,可通过正则表达式进行提取翻译汉化,当然开编辑器改也可
 >##### *.*(纯文本)文件类型
 ![image](img/text-regex教程2.png)
 >#### 文件位置说明

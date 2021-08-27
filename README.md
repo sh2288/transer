@@ -17,9 +17,16 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [github](https://github.com/sh2288/transer/releases) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
+
+2021-08-27
+
+1.rpgmv类型测试完毕,整体一键翻译有望实现
+
 2021-08-24
+
 1.2021-08-24版本已经修正下列bug
 2.同时修复renpy bug
+
 2021-08-20
 1. 改进rpgmv类型,增加道具,装备等文字或剧本的提取
 2. 改变现有ks提取中的bug

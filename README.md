@@ -12,11 +12,16 @@
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
 QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB)
-### 软件下载(解压密码706514743)目前最新版本是2021-08-24
+### 软件下载(解压密码706514743)目前最新版本是2021-08-30
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
+
+2021-08-30
+
+1.RPGMV_json基本可以一键全翻,特殊除外,可达到完成度95%以上
+2.翻译面板右键菜单添加"跳过选项"
 
 2021-08-27
 

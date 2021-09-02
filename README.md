@@ -17,6 +17,11 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [github](https://github.com/sh2288/transer/releases) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
+2021-09-02 bug发现
+
+1. RPGMV CommonEvents.json 中的102选项文本忘记提取了
+2. RPGMV code 108,408疑似为注释,可不用提取翻译
+
 2021-08-31 下一版本更新方向
 
 1. 错行的处理(当翻译引擎漏翻时的处理)

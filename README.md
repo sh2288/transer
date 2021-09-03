@@ -17,6 +17,7 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [github](https://github.com/sh2288/transer/releases) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
+
 2021-09-02 bug发现
 
 1. RPGMV CommonEvents.json 中的102选项文本忘记提取了
@@ -167,3 +168,5 @@ QPS|不限|1或10|5|不限
 >#### 已知BUG
 
 1. 错行问题,由于打包翻译时,提交出去的数据和收到的数据(翻译引擎返回值)可能不一致导致,遇到这样的问题,请在表格中出现错行的位置,点击右键-->错行调整
+
+设置打包字数为0时,可避免错行发生,经测试,使用腾讯翻译接口比较容易发生错行

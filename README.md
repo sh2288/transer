@@ -12,7 +12,7 @@
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
 QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB)
-### 软件下载(解压密码706514743)目前最新版本是2021-08-30[版本更新说明](#update)
+### 软件下载(解压密码706514743)目前最新版本是2021-09-08[版本更新说明](#update)
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
@@ -151,9 +151,9 @@ QPS|不限|1或10|5|不限
 >#### 文件位置说明
 
 所有翻译好的文本位于翻译文件的目录下的\\(所用翻译接口)_(翻译文件类型)\目录下,譬如 \彩云_kirikiri_ks\
-
->#### 软件版本更新说明
 <a id='update'></a>
+>#### 软件版本更新说明
+
 当你使用软件设置好翻译接口,激活软件后,请妥善保管软件目录下的config.ini和wr.txt
 
 这两个文件为您的软件设置和文润设置文件,请不要轻易删除

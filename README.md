@@ -104,7 +104,7 @@ QPS|不限|1或10|5|不限
 
 >##### 有道
 ![image](img/有道API申请教程.png)
->##### 百度
+>##### 百度[详细教程](https://www.3cinfo.net/course/220.html)
 ![image](img/百度API申请教程.png)
 >##### 腾讯
 ![image](img/腾讯API申请教程.png)

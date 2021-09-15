@@ -20,7 +20,7 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 
 2021-09-15
 
-1. 写了个shell,[rpgmaker_decrypter_shell](https://github.com/sh2288/rpgmaker_decrypter_shell),有需要折腾的拿去吧,一键解密rpgmv游戏,欢迎传播
+1. 写了个shell,[rpgmaker_decrypter_shell](https://github.com/sh2288/rpgmaker_decrypter_shell),有需要折腾的拿去吧,一键解密rpgmv游戏,ogg一键转m4a,欢迎传播
 
 
 2021-09-08

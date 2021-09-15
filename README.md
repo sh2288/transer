@@ -18,6 +18,11 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
 
+2021-09-15
+
+1. 写了个shell,[rpgmaker_decrypter_shell](https://github.com/sh2288/rpgmaker_decrypter_shell),有需要折腾的拿去吧,一键解密rpgmv游戏,欢迎传播
+
+
 2021-09-08
 
 1. 解决错行问题(bug1)

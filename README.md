@@ -18,6 +18,10 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
 
+2021-10-15
+1. 上个版本加入的功能,行号列右键菜单,使用说明(多用于跳过剧本脚本使用),可能说明里并没有把这个功能写明白
+![image](img/行号列-右键菜单.png)
+
 2021-09-15
 
 1. 写了个shell,[rpgmaker_decrypter_shell](https://github.com/sh2288/rpgmaker_decrypter_shell),有需要折腾的拿去吧,一键解密rpgmv游戏,ogg一键转m4a,欢迎传播

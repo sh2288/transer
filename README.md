@@ -92,7 +92,7 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 
 翻译接口| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/) | [小牛翻译](https://niutrans.com/)
 ---|---|---|---|---|---
-免费额度|50元|无限或200万字/月|500万字/月|100万字/月|50万或满签1千万/月
+免费额度|50元|无限或200万字/月|500万字/月|100万字/月|满签1千万/月或50万
 多线请求|支持|不支持|不支持|支持|不支持
 QPS|不限|1或10|5|不限|50
 翻译速度|快|快|一般|很快|很快

@@ -17,6 +17,11 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [github](https://github.com/sh2288/transer/releases) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
+2022-01-27(下一版本更新任务)
+1. 百度企业版qps设置错误,修复中...
+2. 添加小牛翻译API
+3. 按文件即时导出已翻译的文本
+
 2021-11-15
 1. 加入批量翻译中,即时导出文本,防止意外崩溃导致翻译好的文本无法导出(计划中...)
 

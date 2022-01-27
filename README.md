@@ -18,9 +18,9 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
 2022-01-27(下一版本更新任务)
-1. 百度企业版qps设置错误,修复中...
+1. 百度企业版qps设置错误,已经修复...
 2. 添加小牛翻译API
-3. 按文件即时导出已翻译的文本
+3. 按文件即时导出已翻译的文本(暂不支持多线程)
 
 2021-11-15
 1. 加入批量翻译中,即时导出文本,防止意外崩溃导致翻译好的文本无法导出(计划中...)
@@ -90,13 +90,13 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 
 5. 支持的翻译接口,点击直接申请接口API,[翻译接口申请教程](#apitech)
 
-翻译接口| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)
+翻译接口| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/) | [小牛翻译](https://niutrans.com/)
 ---|---|---|---|---
-免费额度|50元|无限或200万字/月|500万字/月|100万字/月
-多线请求|支持|不支持|不支持|支持
-QPS|不限|1或10|5|不限
-翻译速度|快|快|一般|很快
-打包字数最大值|4000|3000|2000|5000
+免费额度|50元|无限或200万字/月|500万字/月|100万字/月|50万或满签1千万/月
+多线请求|支持|不支持|不支持|支持|不支持
+QPS|不限|1或10|5|不限|50
+翻译速度|快|快|一般|很快|很快
+打包字数最大值|4000|3000|2000|5000|4000
 
 6. 翻译字数统计
 7. 人名修改系统,通过正则提取游戏内人物"说话"时的名字,请根据翻译参考或游戏人物参考对照修改
@@ -115,7 +115,7 @@ QPS|不限|1或10|5|不限
 ### 使用指南
 <a id='apitech'></a>
 >#### 翻译接口申请教程
-申请网址| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)
+申请网址| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/) | [小牛翻译](https://niutrans.com/)
 ---|---|---|---|---
 
 >##### 有道

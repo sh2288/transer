@@ -18,6 +18,7 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 [码云gitee](https://gitee.com/sh2288/transer/releases/)
 ### 最新消息
 2022-01-28
+
 ...|[小牛翻译介绍](https://niutrans.com/)
 ---|---
 免费额度|50万或满签1千万/月

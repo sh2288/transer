@@ -27,7 +27,7 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 3. 弃用腾讯云SDK,改自写v3签名
 
 
-![image](img/gpt测试版.png)
+![image](img/gpt测试版2.png)
 
 
 2023-04-10

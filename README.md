@@ -23,7 +23,7 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 
 2023-04-14
 加入ChatGPT接口,ChatGPT翻译功能测试中...
-![image](gpt测试版.png)
+![image](img/gpt测试版.png)
 
 
 2023-04-10

@@ -14,8 +14,8 @@
 QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB)
 ### 软件下载(解压密码706514743)目前最新版本是2022-01-28[版本更新说明](#update)
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
-[github](https://github.com/sh2288/transer/releases) 
-[码云gitee](https://gitee.com/sh2288/transer/releases/)
+[github](https://github.com/sh2288/transer/releases/latest) 
+[码云gitee](https://gitee.com/sh2288/transer/releases/latest)
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)
 --|--|--
 ### 最新消息

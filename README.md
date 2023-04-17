@@ -11,7 +11,7 @@
 [github地址](https://sh2288.github.io/transer)
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
-QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB)
+QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB) QQ3群 224276795
 ### 软件下载(解压密码706514743)目前最新版本是2022-01-28[版本更新说明](#update)
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases/latest) 
@@ -20,6 +20,14 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 --|--|--
 ### 最新消息
 
+#### 2023-04-18
+文字游戏_翻译君_2023-04-18 (3.0.8507.27796)
+更新说明:
+1. 加入ChatGPT接口,ChatGPT翻译功能(实验性)
+2. 加入两个白嫖翻译接口(有道,阿里),无需任何API密钥
+3. 加入导出原文,导入译文功能
+4. 弃用腾讯官方SDK接口,改成自写V3签名,提高效率,节省空间
+
 
 2023-04-14
 1. 加入ChatGPT接口,ChatGPT翻译功能测试中...目前测试版只在QQ群发布
@@ -27,7 +35,7 @@ QQ1群(已满) [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514
 3. 弃用腾讯云SDK,改自写v3签名
 
 
-![image](img/gpt测试版.png)
+![image](img/gpt测试版2.png)
 
 
 2023-04-10
@@ -239,4 +247,4 @@ QPS|不限|1或10|5|不限|50
 2021-09-08版本,已经解决 bug1
 1. 错行问题,由于打包翻译时,提交出去的数据和收到的数据(翻译引擎返回值)可能不一致导致,遇到这样的问题,请在表格中出现错行的位置,点击右键-->错行调整
 
-设置打包字数为0时,可避免错行发生,经测试,使用腾讯翻译接口比较容易发生错行
+设置打包字数为0时,可避免错行发生

@@ -16,8 +16,8 @@ QQ1群 [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群(已满) [706514
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases/latest) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/latest)
-[B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)
---|--|--
+[B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://www.fyj888.ga/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
+--|--|--|--
 ### 最新消息
 
 #### 2023-04-20

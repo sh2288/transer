@@ -12,7 +12,7 @@
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
 QQ1群 [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群(已满) [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB) QQ3群 224276795
-### 软件下载(解压密码706514743)目前最新版本是2023-04-18[版本更新说明](#update)
+### 软件下载(解压密码706514743)目前最新版本是[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest) [版本更新说明](#update)
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases/latest) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/latest)

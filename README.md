@@ -1,18 +1,22 @@
-# 文字游戏 翻译君 (云翻 云翻译软件)
+# 文字游戏 翻译君 (任意文本,游戏脚本的翻译软件)
 支持多种文件类型的一键翻译工具|您与汉化翻译组的距离或许只差一个软件
 --|--
 
-吉里吉里ks一键翻译|Renpy一键翻译|Rpgmv一键翻译|TyranoScript一键翻译
---|--|--|--
+吉里吉里ks一键翻译|Renpy一键翻译|Rpgmv一键翻译|TyranoScript一键翻译|其他文本
+--|--|--|--|--
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest)  ![image](https://img.shields.io/badge/官方QQ1群-38552538-ff69b4?style=flat&logo=tencent-qq) ![image](https://img.shields.io/badge/官方QQ2群-706514743-ff69b4?style=flat&logo=tencent-qq)  ![image](https://img.shields.io/badge/.NET-4.5.2-brightgreen?style=flat&logo=.net) ![image](https://img.shields.io/badge/windows/xp/7/8/10-x86/x64-blue?style=flat&logo=windows)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest)
+![image](https://img.shields.io/badge/Windows/XP/7/8/10/11-x86/x64-blue?style=flat&logo=windows)
+![GitHub all releases](https://img.shields.io/github/downloads/sh2288/transer/total?label=Downloads)
 
+![image](https://img.shields.io/badge/官方QQ1群-38552538-ff69b4?style=flat&logo=tencent-qq)
+![image](https://img.shields.io/badge/官方QQ2群(已满)-706514743-ff69b4?style=flat&logo=tencent-qq)
+![image](https://img.shields.io/badge/官方QQ3群-224276795-ff69b4?style=flat&logo=tencent-qq)
 
 [github地址](https://sh2288.github.io/transer)
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
-QQ1群 [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群(已满) [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB) QQ3群 224276795
-### 软件下载(解压密码706514743)[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest) [版本更新说明](#update)
+### 软件下载 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest) [版本更新说明](#update)
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases/latest) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/latest)

@@ -2,8 +2,8 @@
 支持多种文件类型的一键翻译工具|您与汉化翻译组的距离或许只差一个软件
 --|--
 
-吉里吉里ks一键翻译|Renpy一键翻译|Rpgmv一键翻译|TyranoScript一键翻译|其他文本
---|--|--|--|--
+吉里吉里ks一键翻译|Renpy一键翻译|Rpgmv一键翻译|TyranoScript一键翻译
+--|--|--|--
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest)
 ![image](https://img.shields.io/badge/Windows/XP/7/8/10/11-x86/x64-blue?style=flat&logo=windows)

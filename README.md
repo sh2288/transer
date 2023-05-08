@@ -1,9 +1,8 @@
-# 文字游戏 翻译君 (任意文本,游戏脚本的翻译软件)
+# 文字游戏 翻译君  
+`任意文本` `游戏脚本` `翻译软件` `任意支持的语言翻译成中文`  
+`吉里吉里ks` `Renpy` `Rpgmv` `TyranoScript` `一键翻译`
 支持多种文件类型的一键翻译工具|您与汉化翻译组的距离或许只差一个软件
---|--
-
-吉里吉里ks一键翻译|Renpy一键翻译|Rpgmv一键翻译|TyranoScript一键翻译
---|--|--|--
+--|--  
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest)
 ![image](https://img.shields.io/badge/Windows/XP/7/8/10/11-x86/x64-blue?style=flat&logo=windows)
@@ -22,7 +21,10 @@
 [码云gitee](https://gitee.com/sh2288/transer/releases/latest)
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://www.fyj888.ga/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
-### 最新消息
+### 最新消息  
+
+#### 2023-05-08
+1. 添加`火山翻译`白嫖接口,测试版暂时只在群里发布
 
 #### 2023-05-01
 <details> <summary>🎥 GPT翻译演示图</summary>

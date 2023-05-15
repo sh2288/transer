@@ -29,11 +29,11 @@
 [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index)|送5或100万字/月|否|1或10|快|1000或3000
 [腾讯翻译君](http://cloud.tencent.com/)|送500万字/月|否|5|快|2000
 [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)|送100万字/月|支持|未知|很快|5000
-[小牛翻译](https://niutrans.com/)|送20万字/天|否|50|快|4000
-[GPT翻译](https://openai.com/)|送3或5$/账户|否|3/分钟|极慢|600
+[小牛翻译](https://niutrans.com/)|送20万字/天|否|50|很快|4000
+[chatGPT翻译](https://openai.com/)|送3或5$/账户|否|3/分钟|极慢|600
 阿里白嫖|不限|否|2|慢|150
-有道白嫖|不限(量大会封IP,一段时间恢复)|否|2|慢|500
-火山白嫖|不限|否|10|慢|1000
+有道白嫖|不限(量大会封IP,一段时间恢复)|否|2|一般|500
+火山白嫖|不限|否|10|快|1000
 
 </details>
 

@@ -19,7 +19,7 @@
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases/latest) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/latest)
-[B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://www.fyj-888.ga/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
+[B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://www.fyj888.ga/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
 <details> <summary> 🔊 翻译接口说明表</summary>
 
@@ -46,7 +46,7 @@
 2. 修复Renpy提取BUG,添加Renpy是否提取文字对话中的[脚本]选项(不明白的保持默认即可)
 
 #### 2023-05-23
-1. [正则分享库](https://www.fyj-888.ga/article/2023-05-23)分享一些软件里的正则匹配表达式,mtool导出json格式,VNTextPatch导出的json格式,请使用纯文本方式打开,填入正则提取即可
+1. [正则分享库](https://www.fyj888.ga/article/2023-05-23)分享一些软件里的正则匹配表达式,mtool导出json格式,VNTextPatch导出的json格式,请使用纯文本方式打开,填入正则提取即可
 
 #### 2023-05-08
 1. 添加`火山翻译`白嫖接口,测试版暂时只在群里发布

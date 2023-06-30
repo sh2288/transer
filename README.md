@@ -42,7 +42,7 @@
 ### 最新消息  
 
 #### 2023-06-30
-1. 添加rpgtranspatch,vntextpatch,mtool导出翻译文件的直接读取,一键翻译--测试版暂时在QQ群里发布
+1. 添加rpgtranspatch,VNTextPatch,Mtool导出翻译文件的直接读取,一键翻译--测试版暂时在QQ群里发布
 2. 修复GPT,promt和user设置的弱智BUG
 
 #### 2023-06-29

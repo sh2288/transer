@@ -44,14 +44,14 @@
 #### 2023-06-30
 文字游戏_翻译君_2023-06-30  V3.0.8581.29017
 更新说明:
-1. 添加RPGMakertrans(RPGMaker2000-XP-VX-VXAce俗称龙头,马头,rpg游戏)工具导出文本的一键翻译[使用教程](https://www.fyj888.ml/article/2023-06-29)
-2. 添加rpgtranspatch,VNTextPatch,Mtool导出翻译文件的直接读取,一键翻译[使用教程](https://www.fyj888.ml/article/2023-06-28)
+1. 添加RPGMakertrans(RPGMaker2000-XP-VX-VXAce俗称龙头,马头,rpg游戏)工具导出文本的一键翻译[使用教程](https://www.fyj-888.ml/article/2023-06-29)
+2. 添加VNTextPatch,Mtool导出翻译文件的直接读取,一键翻译[使用教程](https://www.fyj-888.ml/article/2023-06-28)
 3. 修复GPT,system和user设置的弱智BUG
 
 #### 2023-06-29
 1. 添加RPGMakertrans(RPGMaker2000-XP-VX-VXAce俗称龙头,马头,rpg游戏)工具导出文本的一键翻译--测试版暂时在QQ群里发布
 
-[RPGMaker2000-XP-VX-VXAce(龙头,马头)游戏翻译方法㊣](https://www.fyj888.ml/article/2023-06-29)
+[RPGMaker2000-XP-VX-VXAce(龙头,马头)游戏翻译方法㊣](https://www.fyj-888.ml/article/2023-06-29)
 
 #### 2023-06-26
 文字游戏_翻译君_2023-06-26 V3.0.8577.15852

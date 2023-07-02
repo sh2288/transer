@@ -19,7 +19,7 @@
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases/latest) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/latest)
-[B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://www.fyj-888.ml/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
+[B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://www.fyj888.ml/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
 <details> <summary> 🔊 翻译接口说明表</summary>
 
@@ -44,14 +44,14 @@
 #### 2023-06-30
 文字游戏_翻译君_2023-06-30  V3.0.8581.29017
 更新说明:
-1. 添加RPGMakertrans(RPGMaker2000-XP-VX-VXAce俗称龙头,马头,rpg游戏)工具导出文本的一键翻译[使用教程](https://www.fyj-888.ml/article/2023-06-29)
-2. 添加VNTextPatch,Mtool导出翻译文件的直接读取,一键翻译[使用教程](https://www.fyj-888.ml/article/2023-06-28)
+1. 添加RPGMakertrans(RPGMaker2000-XP-VX-VXAce俗称龙头,马头,rpg游戏)工具导出文本的一键翻译[使用教程](https://www.fyj888.ml/article/2023-06-29)
+2. 添加VNTextPatch,Mtool导出翻译文件的直接读取,一键翻译[使用教程](https://www.fyj888.ml/article/2023-06-28)
 3. 修复GPT,system和user设置的弱智BUG
 
 #### 2023-06-29
 1. 添加RPGMakertrans(RPGMaker2000-XP-VX-VXAce俗称龙头,马头,rpg游戏)工具导出文本的一键翻译--测试版暂时在QQ群里发布
 
-[RPGMaker2000-XP-VX-VXAce(龙头,马头)游戏翻译方法㊣](https://www.fyj-888.ml/article/2023-06-29)
+[RPGMaker2000-XP-VX-VXAce(龙头,马头)游戏翻译方法㊣](https://www.fyj888.ml/article/2023-06-29)
 
 #### 2023-06-26
 文字游戏_翻译君_2023-06-26 V3.0.8577.15852
@@ -92,7 +92,7 @@
 2. 修复Renpy提取BUG,添加Renpy是否提取文字对话中的[脚本]选项(不明白的保持默认即可)
 
 #### 2023-05-23
-1. [正则分享库](https://www.fyj-888.ml/article/2023-05-23)分享一些软件里的正则匹配表达式,mtool导出json格式,VNTextPatch导出的json格式,请使用纯文本方式打开,填入正则提取即可
+1. [正则分享库](https://www.fyj888.ml/article/2023-05-23)分享一些软件里的正则匹配表达式,mtool导出json格式,VNTextPatch导出的json格式,请使用纯文本方式打开,填入正则提取即可
 
 #### 2023-05-08
 1. 添加`火山翻译`白嫖接口,测试版暂时只在群里发布

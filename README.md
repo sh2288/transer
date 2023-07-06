@@ -8,7 +8,7 @@
 ![image](https://img.shields.io/badge/Windows/XP/7/8/10/11-x86/x64-blue?style=flat&logo=windows)
 ![GitHub all releases](https://img.shields.io/github/downloads/sh2288/transer/total?label=Downloads)
 
-![image](https://img.shields.io/badge/官方QQ1群-38552538-ff69b4?style=flat&logo=tencent-qq)
+![image](https://img.shields.io/badge/官方QQ1群(已满)-38552538-ff69b4?style=flat&logo=tencent-qq)
 ![image](https://img.shields.io/badge/官方QQ2群(已满)-706514743-ff69b4?style=flat&logo=tencent-qq)
 ![image](https://img.shields.io/badge/官方QQ3群-224276795-ff69b4?style=flat&logo=tencent-qq)
 
@@ -40,6 +40,12 @@
 
 
 ### 最新消息  
+
+#### 2023-07-06 (测试版暂时在QQ群里发布)
+1. 修复GPT的返回bug,减少GPT翻译时出现的错误
+2. 添加GPT接口代理设置
+3. 添加配错定位功能,方便后期
+4. 添加版本更新检测
 
 #### 2023-06-30
 文字游戏_翻译君_2023-06-30  V3.0.8581.29017

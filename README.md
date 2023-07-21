@@ -27,17 +27,17 @@
 ---|---|---|---|---|---|---
 [有道智云](https://ai.youdao.com/login.s)|送50元|支持|未知|快|良|4000
 [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index)|送5或100万字/月|否|1或10|快|良|1000或3000
-[腾讯翻译君](http://cloud.tencent.com/)|送500万字/月|否|5|快|良|2000
-[彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)|送100万字/月|支持|未知|很快|良|5000
-[小牛翻译](https://niutrans.com/)|送20万字/天|否|50|很快|良|4000
+[腾讯翻译君](http://cloud.tencent.com/)|免费500万字/月|否|5|快|良|2000
+[彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)|免费100万字/月|支持|未知|很快|良|5000
+[小牛翻译](https://niutrans.com/)|免费20万字/天|否|50|很快|良|4000
 [chatGPT翻译](https://openai.com/)|送3或5$/账户|否|3/分钟|极慢|优|600
 阿里白嫖|不限|否|2|慢|可|150
 有道白嫖|不限(量大会封IP,一段时间恢复)|否|2|一般|良|500
-火山白嫖|不限|否|10|快|可|1000
+火山白嫖|不限|否|10|快|良|1000
 腾讯交互白嫖|不限|否|10|快|可|2000
 deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
-[deepl官方](https://www.deepl.com/translator)|送50万字/月|否|5|快|良|4000
-[火山官方](https://www.volcengine.com/)|200万/月|否|10|快|可|5000
+[deepl官方](https://www.deepl.com/translator)|免费50万字/月|否|5|快|良|4000
+[火山官方](https://www.volcengine.com/)|免费200万字/月|否|10|很快|良|4000
 </details>
 
 ### 新用户,可先用阿里白嫖接口体验

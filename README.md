@@ -16,12 +16,24 @@
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
 ### 软件下载 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest) [版本更新说明](#update)
+<details> <summary> 🔊 版本更新说明</summary>
+  
+### 软件版本更新说明:
+当你使用软件设置好翻译接口,激活软件后,请妥善保管软件目录下的`config.ini` `wr.txt` `syk.txt`
+
+这些文件为您的软件设置和文润设置文件,请不要轻易删除
+
+当更新新版本时,请将这两些文件,拷贝到新版软件的目录下
+</details>
+
 [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
 [github](https://github.com/sh2288/transer/releases/latest) 
 [码云gitee](https://gitee.com/sh2288/transer/releases/latest)
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://fyj.2288666.xyz/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
+
 <details> <summary> 🔊 翻译接口说明表</summary>
+
 
 翻译接口 | 免费额度 | 多线程请求 | QPS | 翻译速度 | 翻译质量 | 打包字数最大值 
 ---|---|---|---|---|---|---
@@ -216,6 +228,8 @@ QPS|50
 API|注册(普通)登录-控制台-个人中心-API-KEY
 免费获额度|控制台-个人中心-签到码-绑定微信
 
+<details> <summary> 🔊 更新历史</summary>
+
 2022-01-27(下一版本更新任务)
 1. 百度企业版qps设置错误,已经修复...
 2. 添加小牛翻译API
@@ -269,6 +283,8 @@ API|注册(普通)登录-控制台-个人中心-API-KEY
 3. 正则表达式提取代码优化,修复现有bug
 4. 添加复制原文按钮,方便后期二次文润
 5. 下一版本将修正以上所有内容
+
+</details>
 
 ### 软件用途
 
@@ -369,13 +385,12 @@ QPS|不限|1或10|5|不限|50
 
 所有翻译好的文本位于翻译文件的目录下的\\(所用翻译接口)_(翻译文件类型)\目录下,譬如 \彩云_kirikiri_ks\
 <a id='update'></a>
->#### 软件版本更新说明
+### 软件版本更新说明:
+当你使用软件设置好翻译接口,激活软件后,请妥善保管软件目录下的`config.ini` `wr.txt` `syk.txt`
 
-当你使用软件设置好翻译接口,激活软件后,请妥善保管软件目录下的config.ini和wr.txt
+这些文件为您的软件设置和文润设置文件,请不要轻易删除
 
-这两个文件为您的软件设置和文润设置文件,请不要轻易删除
-
-当更新新版本时,请将这两个文件,拷贝到新版软件的目录下
+当更新新版本时,请将这两些文件,拷贝到新版软件的目录下
 
 
 

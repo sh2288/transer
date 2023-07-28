@@ -15,7 +15,11 @@
 [github地址](https://sh2288.github.io/transer)
 [码云gitee地址](https://gitee.com/sh2288/transer)
 
-### 软件下载 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest) [版本更新说明](#update)
+### 软件下载 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest)
+
+[度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
+[github](https://github.com/sh2288/transer/releases/latest) 
+[码云gitee](https://gitee.com/sh2288/transer/releases/latest)
 <details> <summary> 🔊 版本更新说明</summary>
   
 ### 软件版本更新说明:
@@ -26,9 +30,6 @@
 当更新新版本时,请将这两些文件,拷贝到新版软件的目录下
 </details>
 
-[度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 
-[github](https://github.com/sh2288/transer/releases/latest) 
-[码云gitee](https://gitee.com/sh2288/transer/releases/latest)
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://fyj.2288666.xyz/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
 
@@ -99,6 +100,8 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 2. 添加GPT接口代理设置
 3. 添加排错定位功能,方便后期
 4. 添加版本更新检测
+
+<details> <summary> 🔊 更新历史</summary>
 
 #### 2023-06-30
 文字游戏_翻译君_2023-06-30  V3.0.8581.29017
@@ -233,8 +236,6 @@ QPS|50
 打包字数最大值|4000
 API|注册(普通)登录-控制台-个人中心-API-KEY
 免费获额度|控制台-个人中心-签到码-绑定微信
-
-<details> <summary> 🔊 更新历史</summary>
 
 2022-01-27(下一版本更新任务)
 1. 百度企业版qps设置错误,已经修复...

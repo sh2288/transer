@@ -32,7 +32,12 @@
 
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://fyj.2288666.xyz/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
-
+<details> <summary> 📖 更多实用教程</summary>
+  
+[RPGMaker2000-XP-VX-VXAce龙头马头游戏翻译方法㊣](https://fyj.2288666.xyz/article/2023-06-29)  
+[来自其他网站的renpy详细教程](https://fyj.2288666.xyz/article/2023-05-29)   
+[一些翻译君软件自用的正则表达式](https://fyj.2288666.xyz/article/2023-05-23)
+</details>
 <details> <summary> 🔊 翻译接口说明表</summary>
 
 
@@ -326,16 +331,26 @@ API|注册(普通)登录-控制台-个人中心-API-KEY
 游戏引擎|吉里吉里xp3|吉里吉里xp3|rpy语言包|RPGMV|纯文本
 提取剧本|自动|纯文本+正则|自动(只支持翻译包)|自动(*.json)|自动提取所有或正则提取
 
-5. 支持的翻译接口,点击直接申请接口API,[翻译接口申请教程](#apitech)
+5. 支持的翻译接口,点击直接申请接口API,[翻译接口申请教程](#apitech)  
+<details> <summary> 🔊 翻译接口说明表</summary>
 
-翻译接口| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/) | [小牛翻译](https://niutrans.com/)
----|---|---|---|---|---
-免费额度|50元|5万或100万字/月|500万字/月|100万字/月|满签1千万/月或50万
-多线请求|支持|不支持|不支持|支持|不支持
-QPS|不限|1或10|5|不限|50
-翻译速度|快|快|一般|很快|很快
-打包字数最大值|4000|1000或3000|2000|5000|4000
 
+翻译接口 | 免费额度 | 多线程请求 | QPS | 翻译速度 | 翻译质量 | 打包字数最大值 
+---|---|---|---|---|---|---
+[有道智云](https://ai.youdao.com/login.s)|送50元|支持|未知|快|良|4000
+[百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index)|送5或100万字/月|否|1或10|快|良|1000或3000
+[腾讯翻译君](http://cloud.tencent.com/)|免费500万字/月|否|5|快|良|2000
+[彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)|免费100万字/月|支持|未知|很快|良|5000
+[小牛翻译](https://niutrans.com/)|免费20万字/天|否|50|很快|良|4000
+[chatGPT翻译](https://openai.com/)|送3或5$/账户|否|3/分钟|极慢|优|600
+阿里白嫖|不限|否|2|慢|可|150
+有道白嫖|不限(量大会封IP,一段时间恢复)|否|2|一般|良|500
+火山白嫖|不限|否|10|快|良|1000
+腾讯交互白嫖|不限|否|10|快|可|2000
+deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
+[deepl官方](https://www.deepl.com/translator)|免费50万字/月|否|5|快|良|4000
+[火山官方](https://www.volcengine.com/)|免费200万字/月|否|10|很快|良|4000
+</details>
 6. 翻译字数统计
 7. 人名修改系统,通过正则提取游戏内人物"说话"时的名字,请根据翻译参考或游戏人物参考对照修改
 8. 采用多线程同时翻译多个文件,目前最大支持32个文件同时翻译,效率是以前的单文件的32倍
@@ -349,6 +364,10 @@ QPS|不限|1或10|5|不限|50
 例2|雪疯|雪风
 
 11. 加入自动激活功能,只支持支付宝付款后的自动激活
+12. 术语库-字典功能
+13. 存档功能,自动保存原文译文,并支持读档(导入存档)
+14. 排错定位,方便后期错误排查修正
+
 
 ### 使用指南
 <a id='apitech'></a>

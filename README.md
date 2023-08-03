@@ -387,10 +387,10 @@ QPS|不限|1或10|5|不限|50
 >##### ks文件类型
 ![image](img/ks教程2.png)
 >##### rpy文件类型
-![image](img/rpy教程3.png)
-[来自其他网站的renpy详细教程](https://nothamor.cn/index.php/archives/renpyTranslate.html)
+![image](img/0-使用教程/剧本翻译--Renpy教程.png)
+[来自其他网站的renpy详细教程](https://fyj.2288666.xyz/article/2023-05-29)
 >##### json(rpgmv)文件类型
-![image](img/rpgmv-json教程3.png)
+![image](img/0-使用教程/剧本翻译--RPGMV-WWW-data-json教程.png)
 此功能仅供测试还不完善,至于游戏中其他公共事件和数据库等,可通过正则表达式进行提取翻译汉化,当然开编辑器改也可
 >##### *.*(纯文本)文件类型
 ![image](img/text-regex教程2.png)

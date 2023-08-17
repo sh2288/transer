@@ -342,7 +342,7 @@ API|注册(普通)登录-控制台-个人中心-API-KEY
 游戏引擎|吉里吉里xp3|吉里吉里xp3|rpy语言包|RPGMV|纯文本
 提取剧本|自动|纯文本+正则|自动(只支持翻译包)|自动(*.json)|自动提取所有或正则提取
 
-5. 支持的翻译接口,点击直接申请接口API,[翻译接口申请教程](#apitech)  
+5. 支持的翻译接口,点击直接申请接口API,[翻译接口申请教程](#apitech)
 <details> <summary> 🔊 翻译接口说明表</summary>
 
 
@@ -390,15 +390,41 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 申请网址| [有道智云](https://ai.youdao.com/login.s) | [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index) | [腾讯翻译君](http://cloud.tencent.com/) | [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/) | [小牛翻译](https://niutrans.com/)
 ---|---|---|---|---|---
 
->##### 有道
-![image](img/有道API申请教程.png)
->##### 百度[详细教程](https://www.3cinfo.net/course/220.html)
-![image](img/百度API申请教程.png)
->##### 腾讯
-![image](img/腾讯API申请教程.png)
->##### 彩云
+##### 有道翻译申请
+
+1.  注册并登陆有道智云，注册时 开发者名称填写文本翻译，渠道填写翻译插件即可
+2.  [开通文本翻译服务](https://ai.youdao.com/console/#/service-singleton/text-translation)(50元体验金，用完及收费)
+3.  点击创建应用
+    应用名称写**文本翻译**
+    应用类别选择**实用工具**
+    选择服务选择**文本翻译**
+    接入方式选择**API**
+4.  开通后进入控制台 选择自然语言翻译服务下的文本翻译即可查看**APP ID**和**秘钥**
+![](manual/imgs/66cb964db3ee4dcf9dd5dd4d74e3445e_045b341b3fae4b61a.png)
+##### 百度翻译申请[详细教程](https://www.3cinfo.net/course/220.html)
+
+1.  注册并登陆百度翻译开发平台
+    ![](manual/imgs/74226e2795654c43beca5f876697cbee_5c67e23ba3b94b2aa.png)    
+2.  [申请通用翻译API](https://fanyi-api.baidu.com/product/11)(高级版： 每月100万字符免费额度)
+3.  开通标准版
+4.  应用名称可填 文本翻译，提交后立即开通
+5.  进入**管理控制台**
+6.  查看接口 APPID 与秘钥
+    ![](manual/imgs/f70804d0e3804a3f934cc26a04be96d3_bb19f243312149238.png)
+##### 腾讯翻译申请
+
+1.  注册并登陆腾讯云
+2.  [申请机器翻译TMT](https://cloud.tencent.com/product/tmt)(每月500万字符免费额度)
+3.  点击开通付费版
+4.  提示这个可以不用管 点继续使用
+![](manual/imgs/b368c61f565b4ac99c68cd438f48fbb5_b5714a1a562647bb8.png)
+5.  开通后 鼠标悬停在右上角头像上，点击访问管理
+![](manual/imgs/b434500e2900455e9d7e93e00b57a0dc_f272864456824ad89.png)
+6.  点击左侧访问密钥下的**API密钥管理**
+![](manual/imgs/c9a8a55bd65b46cab478fdb882d8b2a9_5ab1ee2a4b8c4c30a.png)
+##### 彩云
 ![image](img/彩云API申请教程.png)
->##### 小牛
+##### 小牛
 [小牛翻译](https://niutrans.com/)|注册(普通)-登录-控制台-个人中心-API-KEY
 ---|---
 >#### 软件使用教程

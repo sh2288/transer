@@ -37,7 +37,7 @@
 
 1.  注册并登陆阿里云
     
-2.  [申请通用版翻译引擎](https://www.aliyun.com/product/ai/base_alimt?source=5176.11533457&userCode=wsnup3vv)(每月100 万字符免费额度)
+2.  [申请通用版翻译引擎](https://www.aliyun.com/product/ai/base_alimt)(每月100 万字符免费额度)
     
 3.  开通后 进去控制台，鼠标悬停在右上角用户头像
     

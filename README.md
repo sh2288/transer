@@ -1,6 +1,12 @@
 # 文字游戏 翻译君  
 `任意文本` `游戏脚本` `影视字幕` `日文小说` `英法德...外语论文` `...` `任意支持的语言翻译成中文`  
 `吉里吉里ks` `Renpy` `Rpgmv` `TyranoScript` `一键翻译`  
+<img src="img/logo-krkr.png" width = "32" height = "32"/>
+<img src="img/logo-renpy_128x128.png" width = "32" height = "32"/>
+<img src="img/logo-rpgmv.png" width = "32" height = "32"/>
+<img src="img/logo-rpgvx.png" width = "32" height = "32"/>
+<img src="img/logo-rpgvxace.png" width = "32" height = "32"/>
+<img src="img/logo-regxp.png" width = "32" height = "32"/>
 支持多种文件类型的一键翻译工具|您与汉化翻译组的距离或许只差一个软件
 --|--  
 

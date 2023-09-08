@@ -39,7 +39,8 @@
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://fyj.2288666.xyz/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
 <details> <summary> 📖 更多实用教程</summary>
-  
+
+[RPGMakerVX-VXAce(龙头,马头)游戏翻译方法2㊣](https://fyj.2288666.xyz/article/2023-09-08)  
 [RPGMaker2000-XP-VX-VXAce龙头马头游戏翻译方法㊣](https://fyj.2288666.xyz/article/2023-06-29)  
 [来自其他网站的renpy详细教程](https://fyj.2288666.xyz/article/2023-05-29)   
 [一些翻译君软件自用的正则表达式](https://fyj.2288666.xyz/article/2023-05-23)

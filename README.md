@@ -7,6 +7,7 @@
 <img src="img/logo-rpgvx.png" width = "32" height = "32"/>
 <img src="img/logo-rpgvxace.png" width = "32" height = "32"/>
 <img src="img/logo-regxp.png" width = "32" height = "32"/>
+<img src="img/logo-waffle1999.jpg" width = "32" height = "32"/>
 支持多种文件类型的一键翻译工具|您与汉化翻译组的距离或许只差一个软件
 --|--  
 
@@ -69,6 +70,9 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 #### 💡 Win10,11自带的Windows Defender若误报,请安装杀毒软件,安装完后即可,这里推荐[火绒安全软件](https://www.huorong.cn/person5.html?v=1)
 
 ### 最新消息  
+
+#### 2023-09-12 (测试版暂时在QQ群里发布)
+1. 添加NEKOSDK_ADVSCRIPT2(waffle)的二进制txt文本直接读取和导出写入
 
 #### 2023-09-12
 1. 修复RPGMakertrans导出的文本类型,翻译后有可能导出为空的bug

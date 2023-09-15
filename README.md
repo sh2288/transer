@@ -71,6 +71,15 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 
 ### 最新消息  
 
+#### 2023-09-15 文字游戏_翻译君_2023-09-15 V3.0.8658.15225
+更新说明
+1. 修复RPGMakertrans导出的文本类型,翻译后有可能导出为空的bug
+2. 添加NEKOSDK_ADVSCRIPT2(waffle)的二进制txt文本的直接读取和导出写入[翻译教程](https://fyj.2288666.xyz/article/2023-09-14)
+3. 添加正则规则码导入导出功能,方便正则规则码的分享交流,导出导入规则码格式如下:
+```
+transer_regex://VlhBY2VUcmFuc2xhdG9yW+S0hV0oPzw9XCIpLis/KD89XCIpW+S0hV1cXC4rP1xdfCx8XFxcXC58Z2Fpbl9tZWRhbC4rP1wpfFwkfFxcclxcbg==
+```
+
 #### 2023-09-12 (测试版暂时在QQ群里发布)
 1. 添加NEKOSDK_ADVSCRIPT2(waffle)的二进制txt文本直接读取和导出写入
 

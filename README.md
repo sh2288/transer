@@ -40,7 +40,8 @@
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://fyj.2288666.xyz/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
 <details> <summary> 📖 更多实用教程</summary>
-
+  
+[Waffle华夫社(NEKOSDK_ADVSCRIPT2)翻译教程](https://fyj.2288666.xyz/article/2023-09-14)  
 [RPGMakerVX-VXAce(龙头,马头)游戏翻译方法2㊣](https://fyj.2288666.xyz/article/2023-09-08)  
 [RPGMaker2000-XP-VX-VXAce龙头马头游戏翻译方法㊣](https://fyj.2288666.xyz/article/2023-06-29)  
 [来自其他网站的renpy详细教程](https://fyj.2288666.xyz/article/2023-05-29)   
@@ -56,7 +57,7 @@
 [腾讯翻译君](http://cloud.tencent.com/)|免费500万字/月|否|5|快|良|2000
 [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)|免费100万字/月|支持|未知|很快|良|5000
 [小牛翻译](https://niutrans.com/)|免费20万字/天|否|50|很快|良|4000
-[chatGPT翻译](https://openai.com/)|送3或5$/账户|否|3/分钟|极慢|优|600
+[chatGPT翻译](https://openai.com/) [system提示词](https://github.com/sh2288/transer/blob/main/gpt-prompt-system)|送3或5$/账户|否|3/分钟|极慢|优|600
 阿里白嫖|不限|否|2|慢|可|150
 有道白嫖|不限(量大会封IP,一段时间恢复)|否|2|一般|良|500
 火山白嫖|不限|否|10|快|良|1000

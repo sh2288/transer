@@ -40,7 +40,8 @@
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://fyj.2288666.xyz/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
 <details> <summary> 📖 更多实用教程</summary>
-  
+
+[BGI/Ethornell引擎游戏,翻译教程,超简单!!!](https://fyj.2288666.xyz/article/2023-09-27)  
 [Waffle华夫社(NEKOSDK_ADVSCRIPT2)翻译教程](https://fyj.2288666.xyz/article/2023-09-14)  
 [RPGMakerVX-VXAce(龙头,马头)游戏翻译方法2㊣](https://fyj.2288666.xyz/article/2023-09-08)  
 [RPGMaker2000-XP-VX-VXAce龙头马头游戏翻译方法㊣](https://fyj.2288666.xyz/article/2023-06-29)  
@@ -72,8 +73,10 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 
 ### 最新消息  
 
-#### 2023-09-27 (测试版暂时在QQ群里发布)
-1. 添加`BGI/Ethornell`的二进制文本的直接读取和导出写入
+#### 文字游戏_翻译君_2023-09-27 V3.0.8670.17854  
+更新说明  
+1. 添加GBK2SJIS库,支持导出sjis编码(正则方式和二进制文本方式)(高手用),可解决不支持转换utf,gbk编码的游戏,但缺点是缺字,只能用sjis里字形相近的字符表示~!
+2. 添加`BGI/Ethornell`的二进制文本的直接读取和导出写入[翻译教程](https://fyj.2288666.xyz/article/2023-09-27)
 #### 2023-09-20 (测试版暂时在QQ群里发布)
 1. 添加GBK2SJIS库,支持导出sjis编码(正则方式和NEKOSDK_ADVSCRIPT2)(高手用),可解决不支持转换utf,gbk编码的游戏,但缺点是缺字~!
 

@@ -1,6 +1,6 @@
 # 文字游戏 翻译君  
 `任意文本` `游戏脚本` `影视字幕` `日文小说` `英法德...外语论文` `...` `任意支持的语言翻译成中文`  
-`吉里吉里ks` `Renpy` `Rpgmv` `TyranoScript` `一键翻译`  
+`吉里吉里ks` `Renpy` `Rpgmv` `TyranoScript` `waffle` `BGI/Ethornell` `一键翻译`  
 <img src="img/logo-krkr.png" width = "32" height = "32"/>
 <img src="img/logo-renpy_128x128.png" width = "32" height = "32"/>
 <img src="img/logo-rpgmv.png" width = "32" height = "32"/>
@@ -72,6 +72,8 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 
 ### 最新消息  
 
+#### 2023-09-27 (测试版暂时在QQ群里发布)
+1. 添加`BGI/Ethornell`的二进制文本的直接读取和导出写入
 #### 2023-09-20 (测试版暂时在QQ群里发布)
 1. 添加GBK2SJIS库,支持导出sjis编码(正则方式和NEKOSDK_ADVSCRIPT2)(高手用),可解决不支持转换utf,gbk编码的游戏,但缺点是缺字~!
 

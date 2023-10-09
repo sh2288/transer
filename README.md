@@ -1,6 +1,6 @@
 # 文字游戏 翻译君  
 `任意文本` `游戏脚本` `影视字幕` `日文小说` `英法德...外语论文` `...` `任意支持的语言翻译成中文`  
-`吉里吉里ks` `Renpy` `Rpgmv` `TyranoScript` `waffle` `BGI/Ethornell` `一键翻译`  
+`吉里吉里ks` `Renpy` `Rpgmv` `TyranoScript` `waffle` `BGI/Ethornell` `BISHOP` `一键翻译`  
 <img src="img/logo-krkr.png" width = "32" height = "32"/>
 <img src="img/logo-renpy_128x128.png" width = "32" height = "32"/>
 <img src="img/logo-rpgmv.png" width = "32" height = "32"/>
@@ -72,6 +72,10 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 #### 💡 Win10,11自带的Windows Defender若误报,请安装杀毒软件,安装完后即可,这里推荐[火绒安全软件](https://www.huorong.cn/person5.html?v=1)
 
 ### 最新消息  
+
+#### 2023-10-09 (测试版暂时在QQ群里发布)
+1. 添加`BISHOP`的二进制文本的直接读取和导出写入
+2. 修复`BGI/Ethornell`提取重复人名或文本的BUG(上个版本忘记去重了😂~~~)
 
 #### 文字游戏_翻译君_2023-09-27 V3.0.8670.17854  
 更新说明  

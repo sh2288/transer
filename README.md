@@ -8,6 +8,7 @@
 <img src="img/logo-rpgvxace.png" width = "32" height = "32"/>
 <img src="img/logo-regxp.png" width = "32" height = "32"/>
 <img src="img/logo-waffle1999.jpg" width = "32" height = "32"/>
+<img src="img/logo-BISHOP.png" width = "90" height = "32"/>
 支持多种文件类型的一键翻译工具|您与汉化翻译组的距离或许只差一个软件
 --|--  
 

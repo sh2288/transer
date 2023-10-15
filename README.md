@@ -42,6 +42,7 @@
 --|--|--|--
 <details> <summary> 📖 更多实用教程</summary>
 
+[BISHOP引擎,只需2步,一键翻译汉化教程](https://fyj.2288666.xyz/article/2023-10-09)  
 [BGI/Ethornell引擎游戏,翻译教程,超简单!!!](https://fyj.2288666.xyz/article/2023-09-27)  
 [Waffle华夫社(NEKOSDK_ADVSCRIPT2)翻译教程](https://fyj.2288666.xyz/article/2023-09-14)  
 [RPGMakerVX-VXAce(龙头,马头)游戏翻译方法2㊣](https://fyj.2288666.xyz/article/2023-09-08)  

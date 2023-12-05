@@ -19,6 +19,7 @@
 ![image](https://img.shields.io/badge/官方QQ1群(已满)-38552538-ff69b4?style=flat&logo=tencent-qq)
 ![image](https://img.shields.io/badge/官方QQ2群(已满)-706514743-ff69b4?style=flat&logo=tencent-qq)
 ![image](https://img.shields.io/badge/官方QQ3群-224276795-ff69b4?style=flat&logo=tencent-qq)
+[![image](https://img.shields.io/badge/QQ频道-点击加入-ff69b4?style=flat&logo=tencent-qq)](https://pd.qq.com/s/dgq39gab3)
 
 [github地址](https://sh2288.github.io/transer)
 [码云gitee地址](https://gitee.com/sh2288/transer)

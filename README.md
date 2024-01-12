@@ -54,7 +54,7 @@
 <details> <summary> 🔊 翻译接口说明表</summary>
 
 
-翻译接口 | 免费额度 | 多线程请求 | QPS | 翻译速度 | 翻译质量 | 打包字数最大值 
+翻译接口 | 免费额度 | 多线程请求 | QPS | 翻译速度 | 翻译质量 | 建议打包字数 
 ---|---|---|---|---|---|---
 [有道智云](https://ai.youdao.com/login.s)|送50元|支持|未知|快|良|4000
 [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index)|送5或100万字/月|否|1或10|快|良|1000或3000
@@ -70,6 +70,7 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 [deepl官方](https://www.deepl.com/translator)|免费50万字/月|否|5|快|良|4000
 [火山官方](https://www.volcengine.com/)|免费200万字/月|否|10|很快|良|4000
 [阿里官方](https://www.aliyun.com/)|免费100万字/月|否|50|很快|良|4000
+[谷歌Gemini](https://ai.google.dev/)|目前免费|否|1|一般|优|500以下
 </details>
 
 #### 💡 Win10,11自带的Windows Defender若误报,请安装杀毒软件,安装完后即可,这里推荐[火绒安全软件](https://www.huorong.cn/person5.html?v=1)
@@ -85,7 +86,7 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 
 #### 文字游戏_翻译君_2024-01-09  V3.0.8774.18772
 更新说明  
-1. 添加Google_AI_Gemini接口,已关闭内容审查
+1. 添加Google_AI_Gemini接口,已关闭内容审查(建议打包字数设置500以下)
 2. 添加Mtool导出的JSON直接提取
 3. 添加VNtext导出的JSON直接提取
 4. 修复转区后无法读取ini(gb2312)的bug,改为使用json保存设置

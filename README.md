@@ -16,10 +16,7 @@
 ![image](https://img.shields.io/badge/Windows/XP/7/8/10/11-x86/x64-blue?style=flat&logo=windows)
 ![GitHub all releases](https://img.shields.io/github/downloads/sh2288/transer/total?label=Downloads)
 
-![image](https://img.shields.io/badge/官方QQ1群(已满)-38552538-ff69b4?style=flat&logo=tencent-qq)
-![image](https://img.shields.io/badge/官方QQ2群(已满)-706514743-ff69b4?style=flat&logo=tencent-qq)
-![image](https://img.shields.io/badge/官方QQ3群-224276795-ff69b4?style=flat&logo=tencent-qq)
-[![image](https://img.shields.io/badge/QQ频道-点击加入-ff69b4?style=flat&logo=tencent-qq)](https://pd.qq.com/s/dgq39gab3)
+![image](https://img.shields.io/badge/官方QQ群-574054671-ff69b4?style=flat&logo=tencent-qq)
 
 [github地址](https://sh2288.github.io/transer)
 [码云gitee地址](https://gitee.com/sh2288/transer)
@@ -76,6 +73,14 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 #### 💡 Win10,11自带的Windows Defender若误报,请安装杀毒软件,安装完后即可,这里推荐[火绒安全软件](https://www.huorong.cn/person5.html?v=1)
 
 ### 最新消息  
+
+### 文字游戏_翻译君_2024-01-23  V5.0.8788.28118 
+
+更新说明
+
+- [x]  添加导出导入原文译文到JSON功能,类Mtool导出JSON格式
+- [x]  优化文件类型选择(直接从主面板选好类型,再点打开文件时,文件类型过滤器,会自动选好)
+- [x]  修复一些BUG
 
 ### 文字游戏_翻译君_2024-01-15  V3.0.8780.16820
 更新说明

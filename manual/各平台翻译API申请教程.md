@@ -66,3 +66,16 @@
     接入方式选择**API**
 4.  开通后进入控制台 选择自然语言翻译服务下的文本翻译即可查看**APP ID**和**秘钥**
     ![](imgs/66cb964db3ee4dcf9dd5dd4d74e3445e_045b341b3fae4b61a.png)
+### 彩云小译申请
+1. [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)
+2. ![image](../img/彩云API申请教程.png)
+### 小牛翻译申请
+1. [小牛翻译](https://niutrans.com/)
+2. 注册(普通)-登录-控制台-个人中心-API-KEY
+### 火山翻译申请
+申请步骤
+1. [API 接入流程概览 机器翻译-火山引擎](https://www.volcengine.com/docs/4640/130872)，跟随官方指导，完成注册账号、实名认证、开通服务这三个步骤。需要在控制台进行操作，火山引擎控制台
+2. 在第四步获取密钥中，火山引擎提供了两个选项：    
+        2.1 继续创建（使用主账号创建密钥，更便捷，这个 key 可以调用主账号资源，不太安全），选择“继续创建“后，表格里会出现一条新的数据，其中就包含我们要用到的“Access Key ID“和“Secret Access Key“。    
+        2.2 去新建子用户（建议使用子用户创建密钥，更安全），获取“Access Key ID“和“Secret Access Key“, 该子账户必须拥有TranslateFullAccess 权限
+

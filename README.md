@@ -39,7 +39,8 @@
 [B站视频教程](https://www.bilibili.com/video/av69298736)|[youtube视频教程](https://youtu.be/8aXjUVPenW8)|[RPGMV游戏做汉化,一键翻译,只需5分钟](https://www.bilibili.com/video/BV1as4y1D7zH/)|[软件内正则表达式的说明](https://fyj.2288666.xyz/article/e649d2b8-30bf-4349-8a8f-4a90ce4ded3b)
 --|--|--|--
 <details> <summary> 📖 更多实用教程</summary>
-
+  
+[只需两步,翻译影视字幕SRT,ASS图文教程](https://fyj.2288666.xyz/article/2024-02-18)  
 [BISHOP引擎,只需2步,一键翻译汉化教程](https://fyj.2288666.xyz/article/2023-10-09)  
 [BGI/Ethornell引擎游戏,翻译教程,超简单!!!](https://fyj.2288666.xyz/article/2023-09-27)  
 [Waffle华夫社(NEKOSDK_ADVSCRIPT2)翻译教程](https://fyj.2288666.xyz/article/2023-09-14)  

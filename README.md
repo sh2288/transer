@@ -49,12 +49,31 @@
 [来自其他网站的renpy详细教程](https://fyj.2288666.xyz/article/2023-05-29)   
 [一些翻译君软件自用的正则表达式](https://fyj.2288666.xyz/article/2023-05-23)
 </details>
+
+<details> <summary> 🔊 支持的引擎(文件类型)</summary>
+  
+扩展名 | 引擎 | 剧本提取方式 
+---|---|---
+*.ks | 吉里吉里 | 自动
+*.json | RPGMV | 自动
+*.rpy | Renpy翻译包 | 自动
+\*.\*  | 任意纯文本 | 手动正则提取
+*.*二进制 | WAFFLE | 自动
+*.*二进制 | BGI/Ethornell | 自动
+*.dat二进制 | BISHOP | 自动
+*.json | Mtool导出json | 自动
+*.json | VNText导出json | 自动
+*.srt | 影视字幕 | 自动
+*.ass | 影视字幕 | 自动
+
+</details>
+
 <details> <summary> 🔊 翻译接口说明表</summary>
 
 
 翻译接口 | 免费额度 | 多线程请求 | QPS | 翻译速度 | 翻译质量 | 建议打包字数 
 ---|---|---|---|---|---|---
-[有道智云](https://ai.youdao.com/login.s)|送50元|支持|未知|快|良|4000
+[有道智云](https://ai.youdao.com/login.s)|送50元(用完为止)|支持|未知|快|良|4000
 [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index)|送5或100万字/月|否|1或10|快|良|1000或3000
 [腾讯翻译君](http://cloud.tencent.com/)|免费500万字/月|否|5|快|良|2000
 [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)|免费100万字/月|支持|未知|很快|良|5000
@@ -69,11 +88,16 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 [火山官方](https://www.volcengine.com/)|免费200万字/月|否|10|很快|良|4000
 [阿里官方](https://www.aliyun.com/)|免费100万字/月|否|50|很快|良|4000
 [谷歌Gemini](https://ai.google.dev/)|目前免费|否|1|一般|优|500以下
+[Sakura-13B](https://github.com/SakuraLLM/Sakura-13B-Galgame)|完全免费(需自行部署)|否|20|块|优|500以下
 </details>
 
 #### 💡 Win10,11自带的Windows Defender若误报,请安装杀毒软件,安装完后即可,这里推荐[火绒安全软件](https://www.huorong.cn/person5.html?v=1)
 
 ### 最新消息  
+
+### 文字游戏_翻译君_2024-02-26  测试版暂时在QQ群发布![image](https://img.shields.io/badge/官方QQ群-574054671-ff69b4?style=flat&logo=tencent-qq)
+- [x]   调整Sakura-13B参数防退化
+- [x]   添加SRT字幕可选双语输出
 
 ### 文字游戏_翻译君_2024-02-22  V5.0.8818.17705
 
@@ -487,23 +511,32 @@ API|注册(普通)登录-控制台-个人中心-API-KEY
 3. 自动识别文件编码shift-jis和utf8,utf16,gb2312等(utf16be无签名除外)
 4. 支持文件类型
 
----|*.ks | *.scn | *.rpy |*.json| \*.*(纯文本) | *.*二进制文本 | Mtool导出json | VNtext导出json
----|---|---|---|---|---|---|---|---
-游戏引擎|吉里吉里xp3|吉里吉里xp3|rpy语言包|RPGMV|纯文本|Waffle,BGI,BISHOP|Mtool导出json|VNtext导出json
-提取剧本|自动|纯文本+正则|自动(只支持翻译包)|自动(*.json)|自动提取所有或正则提取|直接提取|直接提取|直接提取
+扩展名 | 引擎 | 剧本提取方式 
+---|---|---
+*.ks | 吉里吉里 | 自动
+*.json | RPGMV | 自动
+*.rpy | Renpy翻译包 | 自动
+\*.\*  | 任意纯文本 | 手动正则提取
+*.*二进制 | WAFFLE | 自动
+*.*二进制 | BGI/Ethornell | 自动
+*.dat二进制 | BISHOP | 自动
+*.json | Mtool导出json | 自动
+*.json | VNText导出json | 自动
+*.srt | 影视字幕 | 自动
+*.ass | 影视字幕 | 自动
 
 5. 支持的翻译接口,点击直接申请接口API,[翻译接口申请教程](#apitech)
 <details> <summary> 🔊 翻译接口说明表</summary>
 
 
-翻译接口 | 免费额度 | 多线程请求 | QPS | 翻译速度 | 翻译质量 | 打包字数最大值 
+翻译接口 | 免费额度 | 多线程请求 | QPS | 翻译速度 | 翻译质量 | 建议打包字数 
 ---|---|---|---|---|---|---
-[有道智云](https://ai.youdao.com/login.s)|送50元|支持|未知|快|良|4000
+[有道智云](https://ai.youdao.com/login.s)|送50元(用完为止)|支持|未知|快|良|4000
 [百度翻译(含高级版)](https://fanyi-api.baidu.com/api/trans/product/index)|送5或100万字/月|否|1或10|快|良|1000或3000
 [腾讯翻译君](http://cloud.tencent.com/)|免费500万字/月|否|5|快|良|2000
 [彩云小译](https://dashboard.caiyunapp.com/user/sign_up/)|免费100万字/月|支持|未知|很快|良|5000
 [小牛翻译](https://niutrans.com/)|免费20万字/天|否|50|很快|良|4000
-[chatGPT翻译](https://openai.com/)|送3或5$/账户|否|3/分钟|极慢|优|600
+[chatGPT翻译](https://openai.com/) [system提示词](https://github.com/sh2288/transer/blob/main/gpt-prompt-system)|送3或5$/账户|否|3/分钟|极慢|优|600
 阿里白嫖|不限|否|2|慢|可|150
 有道白嫖|不限(量大会封IP,一段时间恢复)|否|2|一般|良|500
 火山白嫖|不限|否|10|快|良|1000
@@ -511,6 +544,9 @@ API|注册(普通)登录-控制台-个人中心-API-KEY
 deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 [deepl官方](https://www.deepl.com/translator)|免费50万字/月|否|5|快|良|4000
 [火山官方](https://www.volcengine.com/)|免费200万字/月|否|10|很快|良|4000
+[阿里官方](https://www.aliyun.com/)|免费100万字/月|否|50|很快|良|4000
+[谷歌Gemini](https://ai.google.dev/)|目前免费|否|1|一般|优|500以下
+[Sakura-13B](https://github.com/SakuraLLM/Sakura-13B-Galgame)|完全免费(需自行部署)|否|20|块|优|500以下
 </details>
 
 6. 翻译字数统计

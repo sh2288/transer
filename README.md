@@ -40,6 +40,7 @@
 --|--|--|--
 <details> <summary> 📖 更多实用教程</summary>
   
+[Sakura13B-AI翻译_白嫖谷歌算力指南](https://fyj.2288666.xyz/article/2024-02-28)
 [只需两步,翻译影视字幕SRT,ASS图文教程](https://fyj.2288666.xyz/article/2024-02-18)  
 [BISHOP引擎,只需2步,一键翻译汉化教程](https://fyj.2288666.xyz/article/2023-10-09)  
 [BGI/Ethornell引擎游戏,翻译教程,超简单!!!](https://fyj.2288666.xyz/article/2023-09-27)  
@@ -95,9 +96,16 @@ deepl白嫖|不限(量大会封IP,一段时间恢复)|否|5|快|良|1000
 
 ### 最新消息  
 
-### 文字游戏_翻译君_2024-02-26  测试版暂时在QQ群发布![image](https://img.shields.io/badge/官方QQ群-574054671-ff69b4?style=flat&logo=tencent-qq)
-- [x]   调整Sakura-13B参数防退化
+### 文字游戏_翻译君_2024-02-29  V5.0.8825.19552
+
+更新说明
+
+- [x]   Sakura-13B参数调整(防退化) [Sakura13B-AI翻译_白嫖谷歌算力指南](https://fyj.2288666.xyz/article/2024-02-28)
 - [x]   添加SRT字幕可选双语输出
+- [x]   修复`翻译并导出所有剧本`按钮,在使用GPT多线程翻译时卡死的BUG
+- [x]   添加针对GPT多线程返回翻译结果校验(杜绝多线程冲突发生)
+- [x]   调整纯文本正则,默认输出编码选项为UTF-16(之前默认没选,其实也是UTF-16)
+- [x]   Gemini设置参数滑轨未读取数值的bug
 
 ### 文字游戏_翻译君_2024-02-22  V5.0.8818.17705
 

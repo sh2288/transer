@@ -14,7 +14,6 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sh2288/transer?display_name=tag&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/sh2288/transer/releases/latest)
 ![image](https://img.shields.io/badge/Windows/XP/7/8/10/11-x86/x64-blue?style=flat&logo=windows)
-![GitHub all releases](https://img.shields.io/github/downloads/sh2288/transer/total?label=Downloads)
 
 ![image](https://img.shields.io/badge/官方QQ群-574054671-ff69b4?style=flat&logo=tencent-qq)
 

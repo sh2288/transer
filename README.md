@@ -1,6 +1,6 @@
 # 本项目停止 若遇到售卖本项目软件,请无视,谨防上当受骗
 
-[闲聊吹水群](https://discord.gg/8HkZDn7H)
+[闲聊吹水群](https://discord.gg/MT477Yvq)
 
 ### 一些更加好用的替代工具
 
